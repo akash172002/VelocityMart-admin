@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## ADD ENV FILE ALSO
+GOOGLE_ID="GOOGLE_AUTH_KEY"
+GOOGLE_SECRET="GOOGLE_AUTH_SECRET_KEY"
+MONGODB_URI="MONGODB_URL"
+S3_ACESS_KEY="AMAZON_WEB_SERVICE_KEY"
+S3_SECRET_ACESS_KEY="AMAZON_WEB_SERVICE_KEY"
+
 First, run the development server:
 
 ```bash
